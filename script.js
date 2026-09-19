@@ -1,0 +1,1 @@
+// A página é estática e não precisa de interações.
